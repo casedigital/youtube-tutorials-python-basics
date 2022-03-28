@@ -1,4 +1,5 @@
 # How To Make A Password Generator In Python
+# https://youtu.be/jzxX-02eKIc
 
 import random
 import string
@@ -81,11 +82,20 @@ if __name__ == "__main__":
     print("\n\n")
     number_of_chars = 50
     password = method_1(number_of_chars)
-    print(f"Method 1: New Password = {password} and has length of {len(password)}")
+    print(
+        f"Method 1: New Password = {password} \
+        and has length of {len(password)}"
+    )
 
     password = method_2(number_of_chars)
-    print(f"Method 2: New Password = {password} and has length of {len(password)}")
+    print(
+        f"Method 2: New Password = {password} \
+        and has length of {len(password)}"
+    )
 
     password = method_3(number_of_chars)
-    print(f"Method 3: New Password = {password} and has length of {len(password)}")
+    print(
+        f"Method 3: New Password = {password} \
+        and has length of {len(password)}"
+    )
     print("\n\n")
