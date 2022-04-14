@@ -1,5 +1,5 @@
 # How to read a text file in python?
-
+# https://youtu.be/wabKlJMjo9o
 
 if __name__ == "__main__":
     # Method 1
@@ -17,5 +17,5 @@ if __name__ == "__main__":
         for val in contents:
             new_contents.append(val.strip())
         print(new_contents)
-    
-    print('Subscribe to Case Digital!')
+
+    print("Subscribe to Case Digital!")
