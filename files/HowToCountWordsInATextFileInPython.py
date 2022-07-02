@@ -1,4 +1,5 @@
 # How to count words in a text file in python?
+# https://youtu.be/kE90BE-jd1U
 
 import os
 
