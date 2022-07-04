@@ -1,4 +1,5 @@
 # how to count unique words from a text file in python?
+# https://youtu.be/18oDsiF0GOI
 
 import os
 import string
