@@ -1,0 +1,8 @@
+Subscribe to Case Digital
+You will learn about python,
+software development,
+and cool things with programming!
+Isn't programming fun! case digital
+You will have so much fun! digital
+This is file number two. This will help us count the number of unique words.
+one two three two three four five five five six six
