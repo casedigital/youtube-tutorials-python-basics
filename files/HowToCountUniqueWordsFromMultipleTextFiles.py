@@ -1,7 +1,6 @@
 # how to count unique words from multiple text files in python?
 # https://youtu.be/OvCDSULHhoI
 
-from doctest import master
 import os
 import string
 
