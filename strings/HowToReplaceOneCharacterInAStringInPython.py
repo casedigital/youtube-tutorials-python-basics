@@ -1,9 +1,7 @@
 # How to replace one character in a string in python?
 
 
-def replace_nth_char(
-    input_str: str, orig_char: str, new_char: str, which_orig_char: int
-):
+def replace_nth_char(input_str: str, orig_char: str, new_char: str, which_orig_char: int):
     start = 0
     for i in range(which_orig_char):
         idx = input_str.find(orig_char, start)
